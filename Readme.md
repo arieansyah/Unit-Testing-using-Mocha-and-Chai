@@ -12,3 +12,4 @@
 5. run project ```$ npm run dev```
 6. create keyspace cassandra
 7. migrate database
+8. run ```$ npm test```
